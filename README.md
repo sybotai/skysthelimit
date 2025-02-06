@@ -8,3 +8,9 @@ A virtual debate platform for students to engage in lively discussions on topics
 - **User Profiles:** Create and customize your profile to showcase your interests and debate history.
 - **Source Integration:** Add and cite sources to support your arguments during debates.
 - **Moderation Tools:** Ensure a respectful and constructive debate environment with moderation features.
+- **User Authentication:** Securely sign up, log in, and manage user profiles.
+- **Debate Scheduling:** Schedule debates and set reminders for upcoming events.
+- **Private Messaging:** Communicate privately with other users.
+- **Leaderboard:** View user rankings based on participation and debate performance.
+- **Feedback System:** Provide feedback on debates and other users.
+
