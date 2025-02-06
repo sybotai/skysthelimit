@@ -1,13 +1,16 @@
 {
   "name": "skysthelimit",
   "version": "1.0.0",
+   "homepage": "https://tdclogic1.github.io/skysthelimit/",
   "description": "A virtual debate platform for students",
   "main": "DebatePlatform.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  
+        "predeploy": "npm run build",
+    "deploy": "gh-pages -d build","test": "react-scripts test",
+  "eject": "react-scripts eject"
   },
   "dependencies": {
     "react": "^17.0.2",
